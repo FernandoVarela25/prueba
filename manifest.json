@@ -14,25 +14,25 @@
         "sizes": "159x165"
       },
       {
-        "src": "icon-192x192.png",
+        "src": "./utps.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "icon-512x512.png",
+        "src": "./utps.png",
         "sizes": "512x512",
         "type": "image/png"
       }
     ],
     "screenshots": [
       {
-        "src": "screenshot-desktop.png",
+        "src": "./utps.png",
         "sizes": "1280x800",
         "type": "image/png",
         "form_factor": "wide"
       },
       {
-        "src": "screenshot-mobile.png",
+        "src": "./utps.png",
         "sizes": "640x1136",
         "type": "image/png",
         "form_factor": "any"
